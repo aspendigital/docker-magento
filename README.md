@@ -10,7 +10,8 @@ Based on [official docker PHP images](https://github.com/docker-library/php), im
 
 ##### PHP 5.6
 
-- `1.9.3.2-php5.6` `latest`: [php5.6/Dockerfile](https://github.com/aspendigital/docker-magento/blob/master/php5.6/Dockerfile)
+- `1.9.3.8-php5.6` `latest`: [php5.6/Dockerfile](https://github.com/aspendigital/docker-magento/blob/master/php5.6/Dockerfile)
+- `1.9.3.2-php5.6`
 - `1.9.2.4-php5.6`
 
 ##### PHP 5.5
@@ -26,6 +27,7 @@ Based on [official docker PHP images](https://github.com/docker-library/php), im
 <br>
 
 __OpenMage SHA1 checksums__
+ - [Magento  1.9.3.8](https://codeload.github.com/OpenMage/magento-mirror/tar.gz/1.9.3.8): `ee6343cc7ac5a7b4bc17b2e8ca3e2752a30e2771`
  - [Magento  1.9.3.2](https://codeload.github.com/OpenMage/magento-mirror/tar.gz/1.9.3.2): `83a8799ab623168a67161d227f640524239dfb42`
  - [Magento  1.9.2.4](https://codeload.github.com/OpenMage/magento-mirror/tar.gz/1.9.2.4): `8f10f2ac823c78a649b15c61d12485954b5b961d`
  - [Magento  1.9.1.1](https://codeload.github.com/OpenMage/magento-mirror/tar.gz/1.9.1.1): `e87c96eebc0f4286dfe5f296c4d76b36a67f5f6d`

@@ -29,8 +29,8 @@ RUN curl -fSL -o /usr/local/bin/modman \
     --url https://raw.githubusercontent.com/colinmollenhour/modman/master/modman \
     && chmod +x /usr/local/bin/modman
 
-ENV MAGENTO_VERSION 1.9.3.2
-ENV MAGENTO_CHECKSUM 83a8799ab623168a67161d227f640524239dfb42
+ENV MAGENTO_VERSION 1.9.3.8
+ENV MAGENTO_CHECKSUM ee6343cc7ac5a7b4bc17b2e8ca3e2752a30e2771
 
 RUN curl -fSL -o magento-$MAGENTO_VERSION.tar.gz \
     --url https://codeload.github.com/OpenMage/magento-mirror/tar.gz/$MAGENTO_VERSION \
